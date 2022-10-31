@@ -1,3 +1,5 @@
+//Farhaan Nazirkhan (nfarhaan.me) & Sarwin Rajiah's C++ Code
+
 #include <SoftwareSerial.h>;
 SoftwareSerial mySerial(2, 3); //SIM800L Tx & Rx is connected to Arduino #3 & #2
 
